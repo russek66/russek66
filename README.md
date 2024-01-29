@@ -4,7 +4,7 @@
   
 ![alt text](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
 ![alt text](https://img.shields.io/badge/-Git-61DAFB?logo=git&logoColor=white)
-![alt text](https://img.shields.io/badge/-Laraver-61DAFB?logo=laraver&logoColor=white)
+![alt text](https://img.shields.io/badge/-Laraver-61DAFB?logo=laravel&logoColor=white)
 
 
 <!--
