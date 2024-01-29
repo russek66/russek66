@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ...
-[![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white))]
+![alt text](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
 
 
 <!--
