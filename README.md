@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ...
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white
+
 <!--
 **russek66/russek66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
