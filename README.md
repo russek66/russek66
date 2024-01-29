@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning ...
   
-![alt text](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
-![alt text](https://img.shields.io/badge/-Git-61DAFB?logo=git&logoColor=white)
-![alt text](https://img.shields.io/badge/-Laraver-61DAFB?logo=laravel&logoColor=white)
+![alt text](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)
+![alt text](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=black&style=flat-square)
+![alt text](https://img.shields.io/badge/-Laraver-FF2D20?logo=laravel&logoColor=black&style=flat-square)
 
 
 <!--
